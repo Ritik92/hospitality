@@ -60,8 +60,8 @@ To run the project locally, follow these steps:
    ```
 3. Navigate to the Frontend directory :
    ```
+   cd ../
    cd frontend/vite-project
-  
    ```
 
 4.  Install the dependencies:
