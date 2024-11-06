@@ -64,7 +64,7 @@ To run the project locally, follow these steps:
    cd frontend/vite-project
    ```
 
-4.  Install the dependencies:
+4. Install the dependencies:
    ```
    npm install
    ```
